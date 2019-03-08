@@ -15,7 +15,7 @@
 
 ## 路线图
 
-![路线图](./aspnetcore-developer-roadmap.zh-Hans.png)
+![路线图](./aspnetcore-developer-roadmap.png)
 
 ## 资源
 
