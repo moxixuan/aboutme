@@ -1,4 +1,4 @@
-# 关于本人的介绍
+ # 关于本人的介绍
 
 > 这是的github链接[moxixuan](https://github.com/moxixuan):
 
@@ -15,7 +15,7 @@
 
 ## 路线图
 
-![路线图](./aspnetcore-developer-roadmap.png)
+![路线图](./moxixuan-roadmap.png)
 
 ## 资源
 
