@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T07:28:02.958Z" agent="5.0 (Windows)" etag="OSNoqHUA3otR7-Xjv2fB" version="14.1.8" type="github"><diagram id="gE1HtgRUrCBJ7OvZJQ6E" name="Page-1">7VpRj5s4EP41ltqHRoAxmEdIyN3prrpVt1Lbp4oEJ3HPCREhm2x//dlgwGCyIekmu7nb1T7YY3vAnm++GQ8BcLjc/5ZG68XHJCYMWEa8B3AELMu0LQuIfyN+LCSuAwvBPKWxnFQL7ulPIoWGlG5pTDaNiVmSsIyum8JpslqRadaQRWma7JrTZglrPnUdzYkmuJ9GTJd+oXG2KKTYcmv574TOF+WTTccrRpZROVnuZLOI4mSniGAI4DBNkqxoLfdDwsThledSrBsfGK1eLCWrrM+CxZfpp+UK/yCfwq/fM/bncPt58kFqeYjYVm4YWA7j+oKYPvDmXDRB6IDABNgTDW8IPFs28AiECGAf+KZoeB7wcbmev4iqQtf6zvSsgengARrwY3tfzpik7TVtTflhZo+lhdJku4qJ2KTJh3cLmpH7dTQVozuOSS5bZEsmh+V2SZqR/cFzNCvrcFiTZEmy9JFPkQtgaVCJaMuW/V2ND7Ocs1Cw4UhZJCE5r1TXVuMNabgTjGjpRgw94LnCGtwsgS/a3GLcgDg3Juam4xZzQRAAjEXDD4A/1k3wrktRsWwMQgw8A/hIDPkh8EbvX51tTHg52ySTH4JwLINFE8IaL/yktaCyA2ld5cTIKvYFbfHelEWbDZ02D4nsafaVt40Bkr1vyshInINRdh5lp3gpEmtM1zpW/iLJNp2S41DLonROsmO8optJMQPqsEIpSwmLMvrQfN0u08gn3CV0lSko8JoosM2WdYttylUqZbYU2XZTEWzDpDgHTVGOlGrbXeDhXYmfE/zc1vz8j78/C3/khBwUbjgSLhnawkOD3FW5JAhBOAbBMHd1ztKcsZ28AXMW4JMxwGHXKq7ZB9iWLu+Zpaf7Oe1zQoD5EBSj8hHDLj3VI7rI5ORHeB08xWOI9Qrox2zhxeugH7sD+O6lQgPSIGNpp9Sfcqz+nMNPLH1UV4n+N3WwXpf3LkBWZb54jKzsN7J6kqz6Qc3VoIZOh1qNGreBGvMIamqMuipGjWvFRfsW4mJFMxIhqE07faHWTrOQdV2oYQ1qH+/uD8S2cX45cUS3K8OtQiMaYFeJMC8dSdonjJAeSa56yfC0M4f/n0jS173xq4ok6JkiiW1c173LCKhgzf4FrJ0QEc6OP8+INXyTWcvNYq2jAtbnRqXBkTG63pDjwSHarIs65YzuRUB5jmiBWododZQ9cAcY8KWChamXpJyzPdhU3bcqexxz4EakGKDr+W/fW4f5umokN+vAUHfgrhJ2UVYI88q1C4I8S8Rj4OHauftWrpUaRaXMEfUNUdnwAPcqnmyeW86uiWSziNYkd45kG18l60ROK+uEPbPOyxGJXvP6hUzAbjDJkbSTd+5ISvk+SNpmF3NgmHaTYRzkHrujil5b5YwyNkxYkuZ7gTEiOBaaN1ma/EOUEWxNoOM8M1XBt1zjmlSlV+NKSylo5ob9q/ii0EgbGJ2vBMK5kQV4AuHodBoxXw4saRwLHUFKNvRnNMn1CYStxXbyDaIAoNFTTCE/osrFoPp0qWLrCTc9yCsf+NXNcdzG4ZefEs4FRzklmc025DLm0itaZ5BPfaPwDNy4UgwMCM+hjJrPPKuRG53MZy9KPjdRMvvvcI9eMzu9fjNLVpmCCiP/O5ipu+el6g7G53jFywbSvlh+A/PR76L1L2KK6fXvimD4Lw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-06T07:42:19.733Z" agent="5.0 (Windows)" etag="4zsDPA_bpUYRULlcuqPM" version="14.1.8" type="github">
+  <diagram id="gE1HtgRUrCBJ7OvZJQ6E" name="Page-1">
+    <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hWcRmn8jeREX_tlKCuTb-1" value="&lt;div&gt;汉朔服务器&lt;/div&gt;&lt;div&gt;(192.168.5.211)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hWcRmn8jeREX_tlKCuTb-2" value="门店手持终端&lt;br&gt;(门店经营宝)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <object label="1" id="hWcRmn8jeREX_tlKCuTb-3">
+          <mxCell style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hWcRmn8jeREX_tlKCuTb-2" target="hWcRmn8jeREX_tlKCuTb-1" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="390" y="410" as="sourcePoint" />
+              <mxPoint x="440" y="360" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="hWcRmn8jeREX_tlKCuTb-4" value="&lt;div&gt;IOT电子价签&lt;/div&gt;&lt;div&gt;（1、路由与价签的关系，&lt;/div&gt;&lt;div&gt;2、商品与价签的绑定关系，&lt;/div&gt;&lt;div&gt;3、价签与门店的绑定关系，&lt;/div&gt;&lt;div&gt;4、价签模板信息，&lt;/div&gt;&lt;div&gt;5、商品优惠券信息）&lt;/div&gt;(5.22)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="385" width="200" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="hWcRmn8jeREX_tlKCuTb-5" value="2" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hWcRmn8jeREX_tlKCuTb-1" target="hWcRmn8jeREX_tlKCuTb-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hWcRmn8jeREX_tlKCuTb-7" value="5" style="endArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="hWcRmn8jeREX_tlKCuTb-4" target="hWcRmn8jeREX_tlKCuTb-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="570" as="sourcePoint" />
+            <mxPoint x="320" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hWcRmn8jeREX_tlKCuTb-8" value="MPS商品信息&lt;br&gt;（5.87）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hWcRmn8jeREX_tlKCuTb-9" value="3" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hWcRmn8jeREX_tlKCuTb-4" target="hWcRmn8jeREX_tlKCuTb-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hWcRmn8jeREX_tlKCuTb-10" value="4" style="endArrow=classic;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="hWcRmn8jeREX_tlKCuTb-8" target="hWcRmn8jeREX_tlKCuTb-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hWcRmn8jeREX_tlKCuTb-11" value="电子价签" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="540" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hWcRmn8jeREX_tlKCuTb-12" value="6" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hWcRmn8jeREX_tlKCuTb-1" target="hWcRmn8jeREX_tlKCuTb-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hWcRmn8jeREX_tlKCuTb-13" value="&lt;div&gt;实时变价&lt;/div&gt;&lt;div&gt;定时推送&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hWcRmn8jeREX_tlKCuTb-14" value="" style="endArrow=classic;html=1;exitX=0.4;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.014;entryY=0.657;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="hWcRmn8jeREX_tlKCuTb-13" target="hWcRmn8jeREX_tlKCuTb-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hWcRmn8jeREX_tlKCuTb-15" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="hWcRmn8jeREX_tlKCuTb-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.2667" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hWcRmn8jeREX_tlKCuTb-17" value="2" style="endArrow=classic;html=1;entryX=0.908;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.921;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="hWcRmn8jeREX_tlKCuTb-4" target="hWcRmn8jeREX_tlKCuTb-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hWcRmn8jeREX_tlKCuTb-18" value="3" style="endArrow=classic;html=1;fontColor=#000000;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="hWcRmn8jeREX_tlKCuTb-1" target="hWcRmn8jeREX_tlKCuTb-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="reXY2tEo1PlgQJFZdKSD-1" value="会员数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="422.5" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="reXY2tEo1PlgQJFZdKSD-2" value="" style="endArrow=classic;html=1;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="reXY2tEo1PlgQJFZdKSD-1" target="hWcRmn8jeREX_tlKCuTb-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="reXY2tEo1PlgQJFZdKSD-3" value="每天定时推送优惠券信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="reXY2tEo1PlgQJFZdKSD-2">
+          <mxGeometry x="-0.3125" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
